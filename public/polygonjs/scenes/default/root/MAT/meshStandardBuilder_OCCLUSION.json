@@ -185,7 +185,7 @@
 				"type": "Material",
 				"generator": "Material.toJSON"
 			},
-			"uuid": "E628EC3D-00C8-4E6F-ACB9-2684E885EF1F",
+			"uuid": "3C0EA894-CAEA-4DA3-B840-BE2B209C5098",
 			"type": "ShaderMaterial",
 			"name": "/MAT/meshStandardBuilder_OCCLUSION",
 			"depthFunc": 3,
@@ -412,9 +412,9 @@
 					"value": [
 						{
 							"direction": {
-								"x": 3.469446951953614e-18,
-								"y": 0.9970908469910378,
-								"z": 0.07622232511997364
+								"x": 0,
+								"y": 0.9976473877858076,
+								"z": 0.06855428246400559
 							},
 							"skyColor": 16777215,
 							"groundColor": 0
@@ -426,19 +426,19 @@
 						{
 							"color": 16777215,
 							"position": {
-								"x": 3.167150537080732,
-								"y": 5.728676192682812,
-								"z": 4.194931024375927
+								"x": 3.157173575070159,
+								"y": 5.779238635398026,
+								"z": 4.155775874406168
 							},
 							"halfWidth": {
-								"x": 3.3039872912864436,
-								"y": 0.12694319622178538,
-								"z": -1.6605882704483585
+								"x": 3.3066670204800035,
+								"y": 0.11380740216461564,
+								"z": -1.656200800290363
 							},
 							"halfHeight": {
-								"x": -0.9468209449037688,
-								"y": 2.6784696344949843,
-								"z": -1.679086214397534
+								"x": -0.9437925406756099,
+								"y": 2.665585837279136,
+								"z": -1.7011489600449357
 							}
 						}
 					]
@@ -460,9 +460,6 @@
 					"value": 0
 				},
 				"envMapIntensity": {
-					"value": 1
-				},
-				"v_POLY_paramUseOcclusion_val": {
 					"value": 1
 				},
 				"v_POLY_paramOcclusionAmount_val": {
@@ -491,7 +488,7 @@
 					"type": "Material",
 					"generator": "Material.toJSON"
 				},
-				"uuid": "1A99D116-4598-4B2A-96CC-8F17DE5333D2",
+				"uuid": "D1E91D5B-F9A7-433F-9781-92E8784B346B",
 				"type": "ShaderMaterial",
 				"depthFunc": 3,
 				"depthTest": true,
@@ -570,9 +567,6 @@
 					"farDistance": {
 						"value": 1000
 					},
-					"v_POLY_paramUseOcclusion_val": {
-						"value": 1
-					},
 					"v_POLY_paramOcclusionAmount_val": {
 						"value": 1
 					}
@@ -590,7 +584,7 @@
 					"type": "Material",
 					"generator": "Material.toJSON"
 				},
-				"uuid": "B0C5951D-1D06-48C0-9AE6-DB9075AAA76A",
+				"uuid": "EA933176-17B9-4191-A84A-4E93E9BB53F7",
 				"type": "ShaderMaterial",
 				"depthFunc": 3,
 				"depthTest": true,
@@ -655,9 +649,6 @@
 					"displacementBias": {
 						"value": 0
 					},
-					"v_POLY_paramUseOcclusion_val": {
-						"value": 1
-					},
 					"v_POLY_paramOcclusionAmount_val": {
 						"value": 1
 					}
@@ -675,7 +666,7 @@
 					"type": "Material",
 					"generator": "Material.toJSON"
 				},
-				"uuid": "47DFAD59-7C73-428D-B324-268DD05F95E8",
+				"uuid": "8EA25623-2814-44C0-B69C-ACB8DF329417",
 				"type": "ShaderMaterial",
 				"depthFunc": 3,
 				"depthTest": true,
@@ -695,9 +686,6 @@
 					},
 					"mFar": {
 						"value": 10
-					},
-					"v_POLY_paramUseOcclusion_val": {
-						"value": 1
 					},
 					"v_POLY_paramOcclusionAmount_val": {
 						"value": 1
