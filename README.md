@@ -7,7 +7,7 @@ This plugin adds a node `SOP/Occlusion` which adds an occlusion attribute to a g
 ![Geometries with occlusion](https://github.com/polygonjs/example-plugin-occlusion/blob/main/doc/occlusion_examples.jpg?raw=true)
 ## Open the scene in the WebGL editor
 
-`yarn && yarn edit`
+`yarn && yarn polygon`
 
 This will open the scene saved in this repo. It is a simple scene with a few geometry, whose occlusion is added via the SOP/Occlusion node.
 
