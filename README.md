@@ -9,6 +9,10 @@ This plugin adds a node `SOP/Occlusion` which adds an occlusion attribute to a g
 
 `yarn && yarn polygon`
 
+and open your browser at:
+
+`http://localhost:8091?scene=default`
+
 This will open the scene saved in this repo. It is a simple scene with a few geometry, whose occlusion is added via the SOP/Occlusion node.
 
 ![Occlusion plugin from Polygonjs node-based Editor](https://github.com/polygonjs/example-plugin-occlusion/blob/main/doc/occlusion_example_in_editor.jpg?raw=true)
@@ -19,5 +23,6 @@ This will open the scene saved in this repo. It is a simple scene with a few geo
 
 and open your browser at:
 
-`http://localhost:8091?scene=default`
+`http://localhost:8080`
+
 
