@@ -2,18 +2,18 @@
 # yarn lockfile v1
 
 
-"@polygonjs/plugin-occlusion@^1.0.7":
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/@polygonjs/plugin-occlusion/-/plugin-occlusion-1.0.7.tgz#3b729be1774a5c0a99ab00ab23db3b2e68780a65"
-  integrity sha512-qsKv4rGoW6AqyE2Bm0AaW89TjC/OenZgWiL7APW0Qs7oSdUINCTelHN1LSz5drE+Dz1Erg/xALt6tJQ93nMBTA==
+"@polygonjs/plugin-occlusion@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@polygonjs/plugin-occlusion/-/plugin-occlusion-1.0.8.tgz#6e70d4769bbe5155ed412606d71f534e82cdc13c"
+  integrity sha512-ktgLUYDSuwgDb3z9IirJuyYYtBS6yykbrD7+ANFidMUh4PdoUA2HxpBmH/7U0SlpzD/ZrRKEUI+scBiPl13azg==
   dependencies:
-    "@polygonjs/polygonjs" "^1.1.67"
+    "@polygonjs/polygonjs" "^1.1.118"
     geo-ambient-occlusion "3.0.4"
 
-"@polygonjs/polygonjs@1.1.67", "@polygonjs/polygonjs@^1.1.67":
-  version "1.1.67"
-  resolved "https://registry.yarnpkg.com/@polygonjs/polygonjs/-/polygonjs-1.1.67.tgz#0d5bbdaf2444a6522e627478a0831c426a13268a"
-  integrity sha512-xPGW9l0iF4cI8Lh+RJLWSNHh9S1UVmRp5SB9H+QUzViABNQzHEgaNjmmy0ZY6VE0qBSOFYfQ0U2aJT6J4cM7Bw==
+"@polygonjs/polygonjs@1.1.118", "@polygonjs/polygonjs@^1.1.118":
+  version "1.1.118"
+  resolved "https://registry.yarnpkg.com/@polygonjs/polygonjs/-/polygonjs-1.1.118.tgz#92872a9bf8b5377bce2536fc188b05934ad8ca65"
+  integrity sha512-3mjUTOyHYGDavWegaOHqeyhf/7Q1IcZcVy6jl23f55hK1IQfAJXaJ3/jL+t0j0e1mCnqmdYIEZn5E7Tf/P/aPQ==
   dependencies:
     gsap "3.5.1"
     jsep "0.3.5"
@@ -608,12 +608,12 @@ path-to-regexp@0.1.7:
   resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-0.1.7.tgz#df604178005f522f15eb4490e7247a1bfaa67f8c"
   integrity sha1-32BBeABfUi8V60SQ5yR6G/qmf4w=
 
-polygonjs-editor@^1.1.67-1:
-  version "1.1.67-1"
-  resolved "https://registry.yarnpkg.com/polygonjs-editor/-/polygonjs-editor-1.1.67-1.tgz#00eaef5865b7fbcce1e0830ea550fdf9f11fcc86"
-  integrity sha512-Lz/iZUs/k6JU1e/GZFOODaKvl5fiPafeD9QrOG5m01VCJRztNV2SuPeeVVWUs0Xsj0xl8wcjAXcLGoADmuTmbw==
+polygonjs-editor@^1.1.118-1:
+  version "1.1.118-1"
+  resolved "https://registry.yarnpkg.com/polygonjs-editor/-/polygonjs-editor-1.1.118-1.tgz#0ee7a603e7daf02144543687546645d67504c192"
+  integrity sha512-nIxrvVhnoy22zpzSxKJIFk3b28JNgXikzLV9MVAeONL8D4AyVul1v29eWG24hSe9WvBWepJ4Vzf5ZZfG2K1Wvg==
   dependencies:
-    "@polygonjs/polygonjs" "1.1.67"
+    "@polygonjs/polygonjs" "1.1.118"
     btoa "1.2.1"
     chalk "4.1.0"
     cors "2.8.5"

@@ -1,7 +1,10 @@
 import {Poly} from '@polygonjs/polygonjs/dist/src/engine/Poly';
 import {AllExpressionsRegister} from '@polygonjs/polygonjs/dist/src/engine/poly/registers/expressions/All';
 import {configurePolygonjs} from '../../PolyConfig';
-import {ModuleName} from '@polygonjs/polygonjs/dist/src/engine/poly/registers/modules/_BaseRegister';
+// modules
+import {ModuleName} from '@polygonjs/polygonjs/dist/src/engine/poly/registers/modules/Common';
+import {DRACOLoader} from '@polygonjs/polygonjs/dist/src/modules/three/examples/jsm/loaders/DRACOLoader';
+import {GLTFLoader} from '@polygonjs/polygonjs/dist/src/modules/three/examples/jsm/loaders/GLTFLoader';
 // event
 import {CameraOrbitControlsEventNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/event/CameraOrbitControls';
 // mat
@@ -29,14 +32,9 @@ import {TransformSopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/T
 export class PolyRegister {
 	static run() {
 		AllExpressionsRegister.run(Poly);
-		Poly.modulesRegister.register(
-			ModuleName.DRACOLoader,
-			import('@polygonjs/polygonjs/dist/src/modules/three/examples/jsm/loaders/DRACOLoader')
-		);
-		Poly.modulesRegister.register(
-			ModuleName.GLTFLoader,
-			import('@polygonjs/polygonjs/dist/src/modules/three/examples/jsm/loaders/GLTFLoader')
-		);
+		// modules
+		Poly.modulesRegister.register(ModuleName.DRACOLoader, DRACOLoader);
+		Poly.modulesRegister.register(ModuleName.GLTFLoader, GLTFLoader);
 		// event
 		Poly.registerNode(CameraOrbitControlsEventNode);
 		// mat
