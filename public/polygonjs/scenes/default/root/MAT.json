@@ -1,5 +1,5 @@
 {
-	"type": "materials",
+	"type": "materialsNetwork",
 	"nodes": {
 		"meshStandard_NO_OCCLUSION": {
 			"type": "meshStandard",

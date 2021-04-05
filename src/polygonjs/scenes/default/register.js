@@ -15,13 +15,13 @@ import {MeshStandardBuilderMatNode} from '@polygonjs/polygonjs/dist/src/engine/n
 import {AreaLightObjNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/obj/AreaLight';
 import {GeoObjNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/obj/Geo';
 import {HemisphereLightObjNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/obj/HemisphereLight';
-import {MaterialsObjNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/obj/Materials';
+import {MaterialsNetworkObjNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/obj/MaterialsNetwork';
 import {PerspectiveCameraObjNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/obj/PerspectiveCamera';
 import {PolarTransformObjNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/obj/PolarTransform';
 // sop
 import {AttribCastSopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/AttribCast';
 import {CopySopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/Copy';
-import {EventsSopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/Events';
+import {EventsNetworkSopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/EventsNetwork';
 import {FileSopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/File';
 import {HierarchySopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/Hierarchy';
 import {MaterialSopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/Material';
@@ -45,13 +45,13 @@ export class PolyRegister {
 		Poly.registerNode(AreaLightObjNode);
 		Poly.registerNode(GeoObjNode);
 		Poly.registerNode(HemisphereLightObjNode);
-		Poly.registerNode(MaterialsObjNode);
+		Poly.registerNode(MaterialsNetworkObjNode);
 		Poly.registerNode(PerspectiveCameraObjNode);
 		Poly.registerNode(PolarTransformObjNode);
 		// sop
 		Poly.registerNode(AttribCastSopNode);
 		Poly.registerNode(CopySopNode);
-		Poly.registerNode(EventsSopNode);
+		Poly.registerNode(EventsNetworkSopNode);
 		Poly.registerNode(FileSopNode);
 		Poly.registerNode(HierarchySopNode);
 		Poly.registerNode(MaterialSopNode);

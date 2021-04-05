@@ -1,12 +1,12 @@
 {
-	"properties": "1617060293733",
+	"properties": "1617634285546",
 	"root": "1612794181127",
 	"nodes": {
 		"perspectiveCamera1": "1611775094302",
-		"perspectiveCamera1/events1": "1611771713883",
-		"MAT": "1611775232279",
-		"MAT/meshBasicBuilder_OCCLUSION": "1617060293733",
-		"MAT/meshStandardBuilder_OCCLUSION": "1617060293733",
+		"perspectiveCamera1/events1": "1617634285546",
+		"MAT": "1617634285546",
+		"MAT/meshBasicBuilder_OCCLUSION": "1617634285546",
+		"MAT/meshStandardBuilder_OCCLUSION": "1617634285546",
 		"dogWithOcclusion": "1611769603815",
 		"spheres": "1611769603815",
 		"headWithOcclusion": "1611769603815",
