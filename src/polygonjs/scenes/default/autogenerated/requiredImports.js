@@ -16,7 +16,7 @@ import {PolarTransformObjNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/
 import {AttribCastSopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/AttribCast';
 import {CopySopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/Copy';
 import {EventsNetworkSopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/EventsNetwork';
-import {FileSopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/File';
+import {FileGLTFSopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/FileGLTF';
 import {HierarchySopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/Hierarchy';
 import {MaterialSopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/Material';
 import {MergeSopNode} from '@polygonjs/polygonjs/dist/src/engine/nodes/sop/Merge';
@@ -40,7 +40,7 @@ export const requiredImports_default = {
 		AttribCastSopNode,
 		CopySopNode,
 		EventsNetworkSopNode,
-		FileSopNode,
+		FileGLTFSopNode,
 		HierarchySopNode,
 		MaterialSopNode,
 		MergeSopNode,

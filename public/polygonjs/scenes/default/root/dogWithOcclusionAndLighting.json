@@ -13,7 +13,7 @@
 			]
 		},
 		"file1": {
-			"type": "file",
+			"type": "fileGLTF",
 			"params": {
 				"url": "/models/Hundepaar.glb"
 			}

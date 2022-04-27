@@ -265,8 +265,9 @@
 	},
 	"fullscreenPanelId": null,
 	"saveOptions": {
+		"createExport": true,
 		"compressJs": true,
-		"createZip": true
+		"publishToIntegrations": false
 	},
 	"paramsModal": []
 }

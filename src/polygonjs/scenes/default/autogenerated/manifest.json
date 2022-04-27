@@ -1,16 +1,16 @@
 {
-	"properties": "1648493294767",
-	"root": "1648493294767",
+	"properties": "1651076475916",
+	"root": "1651076475916",
 	"nodes": {
-		"perspectiveCamera1": "1648493294767",
-		"perspectiveCamera1/events1": "1648493294767",
-		"MAT": "1648493294767",
-		"MAT/meshBasicBuilder_OCCLUSION": "1648493294767",
-		"MAT/meshStandardBuilder_OCCLUSION": "1648493294767",
-		"dogWithOcclusion": "1648493294767",
-		"spheres": "1648493294767",
-		"headWithOcclusion": "1648493294767",
-		"dogWithoutOcclusion": "1648493294767",
-		"dogWithOcclusionAndLighting": "1648493294767"
+		"perspectiveCamera1": "1651076475916",
+		"perspectiveCamera1/events1": "1651076475916",
+		"MAT": "1651076475916",
+		"MAT/meshBasicBuilder_OCCLUSION": "1651076475916",
+		"MAT/meshStandardBuilder_OCCLUSION": "1651076475916",
+		"dogWithOcclusion": "1651076475916",
+		"spheres": "1651076475916",
+		"headWithOcclusion": "1651076475916",
+		"dogWithoutOcclusion": "1651076475916",
+		"dogWithOcclusionAndLighting": "1651076475916"
 	}
 }
