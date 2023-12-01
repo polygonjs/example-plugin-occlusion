@@ -4,49 +4,46 @@
 		"split_panel0": {
 			"split_ratio": 0.5,
 			"split_panel0": {
-				"panelTypes": [
-					"viewer"
-				],
+				"panelTypes": ["viewer"],
 				"currentPanelIndex": 0,
 				"panel_data": {
-					"camera": "/perspectiveCamera1",
-					"linkIndex": 1
+					"camera": "/cameras/cameras:sopGroup/perspectiveCamera1",
+					"isViewerInitLayoutData": true,
+					"linkIndex": 1,
+					"overlayedNetwork": {
+						"allowed": false,
+						"displayed": false
+					}
 				}
 			},
 			"split_panel1": {
-				"panelTypes": [
-					"params"
-				],
+				"panelTypes": ["params"],
 				"currentPanelIndex": 0,
 				"panel_data": {
-					"active_folder": null,
+					"active_folder": 659,
 					"linkIndex": 1
 				}
 			},
 			"split_mode": "vertical"
 		},
 		"split_panel1": {
-			"panelTypes": [
-				"network",
-				"params",
-				"viewer"
-			],
+			"panelTypes": ["network", "params", "viewer"],
 			"currentPanelIndex": 0,
 			"panel_data": {
 				"camera": {
 					"position": {
-						"x": 97.33832756645543,
-						"y": -50.56549683671052
+						"x": 22.02072538860103,
+						"y": 30.569948186528507
 					},
-					"zoom": 0.8030000000000003
+					"zoom": 0.7720000000000002
 				},
 				"history": {
 					"2": {
 						"position": {
-							"x": 97.33832756645543,
-							"y": -50.56549683671052
+							"x": -85.95498753686635,
+							"y": -48.187443060820044
 						},
-						"zoom": 0.8030000000000003
+						"zoom": 0.7720000000000002
 					},
 					"3": {
 						"position": {
@@ -54,6 +51,13 @@
 							"y": -124.3282149874734
 						},
 						"zoom": 0.8100000000000003
+					},
+					"36": {
+						"position": {
+							"x": 22.02072538860103,
+							"y": 30.569948186528507
+						},
+						"zoom": 0.7720000000000002
 					},
 					"77": {
 						"position": {
@@ -208,52 +212,42 @@
 							"y": -306.1332503113325
 						},
 						"zoom": 0.8030000000000003
+					},
+					"1252": {
+						"position": {
+							"x": -24.999999999999993,
+							"y": -10.526315789473681
+						},
+						"zoom": 0.7600000000000002
+					},
+					"1431": {
+						"position": {
+							"x": -71.05263157894734,
+							"y": 2.6315789473684212
+						},
+						"zoom": 0.7600000000000002
 					}
 				},
+				"paramsDisplayed": false,
 				"linkIndex": 1
 			}
 		},
 		"split_mode": "horizontal"
 	},
-	"currentNodes": [
-		"/",
-		"/",
-		"/",
-		"/",
-		"/",
-		"/",
-		"/",
-		"/"
-	],
+	"currentNodes": ["/MAT", "/", "/", "/", "/", "/", "/", "/"],
 	"navigationHistory": {
 		"nodePaths": {
-			"1": [
-				"/"
-			],
-			"2": [
-				"/"
-			],
-			"3": [
-				"/"
-			],
-			"4": [
-				"/"
-			],
-			"5": [
-				"/"
-			],
-			"6": [
-				"/"
-			],
-			"7": [
-				"/"
-			],
-			"8": [
-				"/"
-			]
+			"1": ["/", "/cameras", "/", "/lights", "/", "/lights", "/", "/lights", "/", "/lights", "/", "/MAT"],
+			"2": ["/"],
+			"3": ["/"],
+			"4": ["/"],
+			"5": ["/"],
+			"6": ["/"],
+			"7": ["/"],
+			"8": ["/"]
 		},
 		"index": {
-			"1": 0,
+			"1": 11,
 			"2": 0,
 			"3": 0,
 			"4": 0,
@@ -265,9 +259,12 @@
 	},
 	"fullscreenPanelId": null,
 	"saveOptions": {
-		"createExport": true,
+		"createExport": false,
+		"checkRemoteAssetsUse": true,
+		"minimizeFilesCount": false,
 		"compressJs": true,
-		"publishToIntegrations": false
+		"createZip": false,
+		"runPostExportCommand": false
 	},
 	"paramsModal": []
 }

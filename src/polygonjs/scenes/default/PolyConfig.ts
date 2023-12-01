@@ -1,6 +1,6 @@
 import {PolyEngine} from '@polygonjs/polygonjs/dist/src/engine/Poly';
 import {PolyScene} from '@polygonjs/polygonjs/dist/src/engine/scene/PolyScene';
-import { polyPluginOcclusion } from "@polygonjs/plugin-occlusion/dist/src/index";
+import { polyPluginOcclusion } from "@polygonjs/plugin-occlusion";
 
 export function configurePolygonjs(poly: PolyEngine) {
 	// You can configure the engine,

@@ -1,6 +1,8 @@
 [
 	"/models/Hundepaar.glb",
 	"/models/napoleon.glb",
-	"./three/js/libs/draco/gltf/draco_decoder.wasm",
-	"./three/js/libs/draco/gltf/draco_wasm_wrapper.js"
+	"./three/js/libs/draco/gltf/draco_decoder.wasm?t=1701450559131",
+	"./three/js/libs/draco/gltf/draco_decoder.wasm?t=1701450559132",
+	"./three/js/libs/draco/gltf/draco_wasm_wrapper.js?t=1701450559131",
+	"./three/js/libs/draco/gltf/draco_wasm_wrapper.js?t=1701450559132"
 ]

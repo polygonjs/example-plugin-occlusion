@@ -2,13 +2,7 @@
 	"type": "materialsNetwork",
 	"nodes": {
 		"meshStandard_NO_OCCLUSION": {
-			"type": "meshStandard",
-			"params": {
-				"metalness": 0
-			}
+			"type": "meshStandard"
 		}
-	},
-	"selection": [
-		"meshStandardBuilder_OCCLUSION"
-	]
+	}
 }

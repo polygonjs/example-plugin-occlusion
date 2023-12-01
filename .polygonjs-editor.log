@@ -1,0 +1,577 @@
+2023-12-01T17:03:23.614Z ===================================
+2023-12-01T17:03:23.616Z 
+2023-12-01T17:03:23.616Z Polygonjs Editor (1.5.45-1) started on: [32mhttp://localhost:8091[39m
+2023-12-01T17:03:23.616Z 
+2023-12-01T17:03:23.616Z ===================================
+2023-12-01T17:03:26.424Z receiving: / (renderApp)
+2023-12-01T17:03:26.426Z _evalConfigureEditor START
+2023-12-01T17:03:26.444Z _evalConfigureEditor DONE
+2023-12-01T17:03:27.433Z receiving: /api/install/draco.json
+2023-12-01T17:03:27.435Z checking folder exists '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco': OK
+2023-12-01T17:03:27.436Z updating folder public/three/js/libs/draco
+2023-12-01T17:03:27.436Z copy folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco -> public/three/js/libs/draco
+2023-12-01T17:03:27.436Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/README.md public/three/js/libs/draco/README.md
+2023-12-01T17:03:27.437Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_decoder.js public/three/js/libs/draco/draco_decoder.js
+2023-12-01T17:03:27.438Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_decoder.wasm public/three/js/libs/draco/draco_decoder.wasm
+2023-12-01T17:03:27.438Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_encoder.js public/three/js/libs/draco/draco_encoder.js
+2023-12-01T17:03:27.439Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_wasm_wrapper.js public/three/js/libs/draco/draco_wasm_wrapper.js
+2023-12-01T17:03:27.439Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_decoder.js public/three/js/libs/draco/gltf/draco_decoder.js
+2023-12-01T17:03:27.439Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_decoder.wasm public/three/js/libs/draco/gltf/draco_decoder.wasm
+2023-12-01T17:03:27.440Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_encoder.js public/three/js/libs/draco/gltf/draco_encoder.js
+2023-12-01T17:03:27.440Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_wasm_wrapper.js public/three/js/libs/draco/gltf/draco_wasm_wrapper.js
+2023-12-01T17:03:27.453Z receiving: /api/install/ktx2.json
+2023-12-01T17:03:27.455Z checking folder exists '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/basis': OK
+2023-12-01T17:03:27.471Z receiving: /api/scenes
+2023-12-01T17:03:27.481Z receiving: /api/install/xatlas.json
+2023-12-01T17:03:27.490Z receiving: /api/install/occt.json
+2023-12-01T17:03:27.494Z receiving: /polygonjs/screenshots/scenes/default/poster.png?t=1078 (asset)
+2023-12-01T17:03:27.495Z asset redirect '/polygonjs/screenshots/scenes/default/poster.png' -> 'polygonjs/screenshots/scenes/default/poster.png' (referer: 'http://localhost:8091/')
+2023-12-01T17:03:27.495Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/screenshots/scenes/default/poster.png' exists? false: false
+2023-12-01T17:03:27.498Z receiving: /polygonjs/screenshots/scenes/default/poster.webm?t=1078 (asset)
+2023-12-01T17:03:27.498Z asset redirect '/polygonjs/screenshots/scenes/default/poster.webm' -> 'polygonjs/screenshots/scenes/default/poster.webm' (referer: 'http://localhost:8091/')
+2023-12-01T17:03:27.498Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/screenshots/scenes/default/poster.webm' exists? false: false
+2023-12-01T17:03:27.500Z receiving: /api/install/manifold.json
+2023-12-01T17:03:28.491Z receiving: /api/poly_config/load.js?sceneName=default
+2023-12-01T17:03:57.447Z ===================================
+2023-12-01T17:03:57.449Z 
+2023-12-01T17:03:57.450Z Polygonjs Editor (1.5.45-1) started on: [32mhttp://localhost:8091[39m
+2023-12-01T17:03:57.450Z 
+2023-12-01T17:03:57.450Z ===================================
+2023-12-01T17:03:59.010Z receiving: /scenes/default/edit (renderApp)
+2023-12-01T17:03:59.013Z _evalConfigureEditor START
+2023-12-01T17:03:59.036Z _evalConfigureEditor DONE
+2023-12-01T17:03:59.635Z receiving: /polygonjs-editor.mjs.map (asset)
+2023-12-01T17:03:59.636Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs-editor.mjs.map' exists? false: false
+2023-12-01T17:03:59.753Z receiving: /api/install/draco.json
+2023-12-01T17:03:59.757Z checking folder exists '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco': OK
+2023-12-01T17:03:59.757Z updating folder public/three/js/libs/draco
+2023-12-01T17:03:59.757Z copy folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco -> public/three/js/libs/draco
+2023-12-01T17:03:59.758Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/README.md public/three/js/libs/draco/README.md
+2023-12-01T17:03:59.758Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_decoder.js public/three/js/libs/draco/draco_decoder.js
+2023-12-01T17:03:59.759Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_decoder.wasm public/three/js/libs/draco/draco_decoder.wasm
+2023-12-01T17:03:59.760Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_encoder.js public/three/js/libs/draco/draco_encoder.js
+2023-12-01T17:03:59.761Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_wasm_wrapper.js public/three/js/libs/draco/draco_wasm_wrapper.js
+2023-12-01T17:03:59.761Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_decoder.js public/three/js/libs/draco/gltf/draco_decoder.js
+2023-12-01T17:03:59.762Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_decoder.wasm public/three/js/libs/draco/gltf/draco_decoder.wasm
+2023-12-01T17:03:59.762Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_encoder.js public/three/js/libs/draco/gltf/draco_encoder.js
+2023-12-01T17:03:59.764Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_wasm_wrapper.js public/three/js/libs/draco/gltf/draco_wasm_wrapper.js
+2023-12-01T17:03:59.769Z receiving: /api/install/ktx2.json
+2023-12-01T17:03:59.771Z checking folder exists '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/basis': OK
+2023-12-01T17:03:59.777Z receiving: /api/install/xatlas.json
+2023-12-01T17:03:59.779Z receiving: /api/poly_config/load.js?sceneName=default
+2023-12-01T17:03:59.781Z receiving: /api/install/occt.json
+2023-12-01T17:03:59.785Z receiving: /api/install/manifold.json
+2023-12-01T17:04:00.034Z receiving: /api/poly_config/load.js?sceneName=default
+2023-12-01T17:04:00.641Z receiving: /api/poly_nodes
+2023-12-01T17:04:00.698Z receiving: /api/scenes/load?scene=default
+2023-12-01T17:04:00.846Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm?t=1701450240841 (asset)
+2023-12-01T17:04:00.846Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm' -> 'three/js/libs/draco/gltf/draco_decoder.wasm' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:04:00.847Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_decoder.wasm' exists? true: true
+2023-12-01T17:04:00.854Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js?t=1701450240841 (asset)
+2023-12-01T17:04:00.855Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js' -> 'three/js/libs/draco/gltf/draco_wasm_wrapper.js' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:04:00.855Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_wasm_wrapper.js' exists? true: true
+2023-12-01T17:04:00.855Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm?t=1701450240843 (asset)
+2023-12-01T17:04:00.856Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm' -> 'three/js/libs/draco/gltf/draco_decoder.wasm' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:04:00.856Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_decoder.wasm' exists? true: true
+2023-12-01T17:04:00.856Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js?t=1701450240843 (asset)
+2023-12-01T17:04:00.856Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js' -> 'three/js/libs/draco/gltf/draco_wasm_wrapper.js' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:04:00.857Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_wasm_wrapper.js' exists? true: true
+2023-12-01T17:04:00.859Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm?t=1701450240844 (asset)
+2023-12-01T17:04:00.859Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm' -> 'three/js/libs/draco/gltf/draco_decoder.wasm' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:04:00.860Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_decoder.wasm' exists? true: true
+2023-12-01T17:04:00.861Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js?t=1701450240844 (asset)
+2023-12-01T17:04:00.861Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js' -> 'three/js/libs/draco/gltf/draco_wasm_wrapper.js' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:04:00.861Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_wasm_wrapper.js' exists? true: true
+2023-12-01T17:04:00.881Z receiving: /api/editor_config/load.js
+2023-12-01T17:04:00.890Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js (asset)
+2023-12-01T17:04:00.890Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js' -> 'three/js/libs/draco/gltf/draco_wasm_wrapper.js' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:04:00.890Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_wasm_wrapper.js' exists? true: true
+2023-12-01T17:04:00.891Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm (asset)
+2023-12-01T17:04:00.891Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm' -> 'three/js/libs/draco/gltf/draco_decoder.wasm' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:04:00.891Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_decoder.wasm' exists? true: true
+2023-12-01T17:04:00.891Z receiving: /models/Hundepaar.glb (asset)
+2023-12-01T17:04:00.891Z asset redirect '/models/Hundepaar.glb' -> 'models/Hundepaar.glb' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:04:00.891Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/models/Hundepaar.glb' exists? true: true
+2023-12-01T17:04:00.897Z receiving: /models/Hundepaar.glb (asset)
+2023-12-01T17:04:00.897Z asset redirect '/models/Hundepaar.glb' -> 'models/Hundepaar.glb' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:04:00.897Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/models/Hundepaar.glb' exists? true: true
+2023-12-01T17:04:00.902Z receiving: /models/Hundepaar.glb (asset)
+2023-12-01T17:04:00.903Z asset redirect '/models/Hundepaar.glb' -> 'models/Hundepaar.glb' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:04:00.903Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/models/Hundepaar.glb' exists? true: true
+2023-12-01T17:04:01.102Z receiving: /api/multiplayer/users/index
+2023-12-01T17:04:01.400Z receiving: /api/captures/status
+2023-12-01T17:04:01.407Z receiving: /api/multiplayer/sessions/show
+2023-12-01T17:04:01.467Z receiving: /api/multiplayer/userRequests/index
+2023-12-01T17:04:01.476Z receiving: /api/multiplayer/sessions/show
+2023-12-01T17:04:04.571Z receiving: /api/captures/static/save
+2023-12-01T17:04:04.574Z image saved to /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/screenshots/scenes/default/poster.png
+2023-12-01T17:07:31.270Z receiving: /api/utils/status.json?ping=0
+2023-12-01T17:07:31.270Z respond with status: 'waiting...'
+2023-12-01T17:07:31.276Z receiving: /api/scenes/save
+2023-12-01T17:07:31.276Z setStatus: 'saving...'
+2023-12-01T17:07:31.278Z setStatus: 'saving common files'
+2023-12-01T17:07:31.281Z backing up folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default to /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/backup/scenes/default
+2023-12-01T17:07:31.299Z written zip archive: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/backup/scenes/default/2023_11_1__17h7m.zip
+2023-12-01T17:07:31.299Z backup completed
+2023-12-01T17:07:31.300Z deleting folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated
+2023-12-01T17:07:31.301Z folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated deleted
+2023-12-01T17:07:31.301Z deleting folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default
+2023-12-01T17:07:31.302Z folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default deleted
+2023-12-01T17:07:31.342Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/ui.json
+2023-12-01T17:07:31.355Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/editor.json
+2023-12-01T17:07:31.357Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/properties.json
+2023-12-01T17:07:31.358Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root.json
+2023-12-01T17:07:31.360Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT.json
+2023-12-01T17:07:31.373Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.json
+2023-12-01T17:07:31.385Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.json
+2023-12-01T17:07:31.389Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithOcclusion.json
+2023-12-01T17:07:31.394Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/spheres.json
+2023-12-01T17:07:31.398Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/headWithOcclusion.json
+2023-12-01T17:07:31.402Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithoutOcclusion.json
+2023-12-01T17:07:31.405Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithOcclusionAndLighting.json
+2023-12-01T17:07:31.408Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/cameras.json
+2023-12-01T17:07:31.409Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/cameras/cameraControls1.json
+2023-12-01T17:07:31.412Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/lights.json
+2023-12-01T17:07:31.412Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.vertex.glsl
+2023-12-01T17:07:31.412Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.fragment.glsl
+2023-12-01T17:07:31.412Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthMaterial.vertex.glsl
+2023-12-01T17:07:31.412Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthMaterial.fragment.glsl
+2023-12-01T17:07:31.413Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDistanceMaterial.vertex.glsl
+2023-12-01T17:07:31.413Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDistanceMaterial.fragment.glsl
+2023-12-01T17:07:31.413Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthDOFMaterial.vertex.glsl
+2023-12-01T17:07:31.413Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthDOFMaterial.fragment.glsl
+2023-12-01T17:07:31.413Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.vertex.glsl
+2023-12-01T17:07:31.413Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.fragment.glsl
+2023-12-01T17:07:31.413Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthMaterial.vertex.glsl
+2023-12-01T17:07:31.413Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthMaterial.fragment.glsl
+2023-12-01T17:07:31.413Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDistanceMaterial.vertex.glsl
+2023-12-01T17:07:31.413Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDistanceMaterial.fragment.glsl
+2023-12-01T17:07:31.413Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthDOFMaterial.vertex.glsl
+2023-12-01T17:07:31.414Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthDOFMaterial.fragment.glsl
+2023-12-01T17:07:31.415Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/assets.json
+2023-12-01T17:07:31.416Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/manifest.json
+2023-12-01T17:07:31.417Z setStatus: 'saving detail files'
+2023-12-01T17:07:31.417Z file /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/index.html already exists, not replacing
+2023-12-01T17:07:31.434Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/index.js
+2023-12-01T17:07:31.452Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/index.d.ts
+2023-12-01T17:07:31.457Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/fetchSceneAndMount.js
+2023-12-01T17:07:31.462Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/fetchSceneAndMount.d.ts
+2023-12-01T17:07:31.474Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneData.js
+2023-12-01T17:07:31.481Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneData.d.ts
+2023-12-01T17:07:31.521Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadScene.js
+2023-12-01T17:07:31.535Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadScene.d.ts
+2023-12-01T17:07:31.550Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneFromSceneData.js
+2023-12-01T17:07:31.558Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneFromSceneData.d.ts
+2023-12-01T17:07:31.560Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/modules.json
+2023-12-01T17:07:31.568Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/requiredImports.js
+2023-12-01T17:07:31.924Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/PolySceneWithNodeMap.ts
+2023-12-01T17:07:31.925Z export start
+2023-12-01T17:07:31.925Z setStatus: 'export start'
+2023-12-01T17:07:31.925Z _evalConfigureEditor START
+2023-12-01T17:07:31.926Z receiving: /api/utils/status.json?ping=1
+2023-12-01T17:07:31.926Z respond with status: 'export start'
+2023-12-01T17:07:31.929Z _evalConfigureEditor DONE
+2023-12-01T17:07:31.930Z setStatus: 'addPublicUrl '/models/Hundepaar.glb''
+2023-12-01T17:07:31.930Z setStatus: 'addPublicUrl '/models/napoleon.glb''
+2023-12-01T17:07:31.930Z setStatus: 'addPublicUrl './three/js/libs/draco/gltf/draco_decoder.wasm?t=1701450240841''
+2023-12-01T17:07:31.930Z setStatus: 'addPublicUrl './three/js/libs/draco/gltf/draco_decoder.wasm?t=1701450240843''
+2023-12-01T17:07:31.930Z setStatus: 'addPublicUrl './three/js/libs/draco/gltf/draco_decoder.wasm?t=1701450240844''
+2023-12-01T17:07:31.930Z setStatus: 'addPublicUrl './three/js/libs/draco/gltf/draco_wasm_wrapper.js?t=1701450240841''
+2023-12-01T17:07:31.930Z setStatus: 'addPublicUrl './three/js/libs/draco/gltf/draco_wasm_wrapper.js?t=1701450240843''
+2023-12-01T17:07:31.930Z setStatus: 'addPublicUrl './three/js/libs/draco/gltf/draco_wasm_wrapper.js?t=1701450240844''
+2023-12-01T17:07:31.931Z setStatus: 'compiling js start'
+2023-12-01T17:07:31.931Z deleting folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/js/default
+2023-12-01T17:07:31.931Z folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/js/default deleted
+2023-12-01T17:07:31.931Z compile load js start
+2023-12-01T17:07:32.137Z receiving: /api/utils/status.json?ping=2
+2023-12-01T17:07:32.137Z respond with status: 'compiling js start'
+2023-12-01T17:07:32.183Z compile load js done
+2023-12-01T17:07:32.183Z setStatus: 'compiling js completed'
+2023-12-01T17:07:32.184Z compressing files:
+2023-12-01T17:07:32.184Z chunk-GO2C3RPE.js, index.js, loadSceneFromSceneData-JY3SLTPB.js
+2023-12-01T17:07:32.184Z setStatus: 'compressing file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/js/default/chunk-GO2C3RPE.js'
+2023-12-01T17:07:32.204Z setStatus: 'compressing file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/js/default/index.js'
+2023-12-01T17:07:32.232Z setStatus: 'compressing file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/js/default/loadSceneFromSceneData-JY3SLTPB.js'
+2023-12-01T17:07:35.709Z receiving: /api/utils/status.json?ping=3
+2023-12-01T17:07:35.709Z respond with status: 'compressing file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/js/default/loadSceneFromSceneData-JY3SLTPB.js'
+2023-12-01T17:07:35.714Z setStatus: 'addDirectory '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root''
+2023-12-01T17:07:35.715Z setStatus: 'compiling HTML'
+2023-12-01T17:07:35.821Z adding html file '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/index.html'
+2023-12-01T17:07:35.821Z setStatus: 'adding html file '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/index.html''
+2023-12-01T17:07:35.823Z virtual files: 1
+2023-12-01T17:07:35.824Z virtual file: index.html
+2023-12-01T17:07:36.023Z setStatus: 'writing build files: '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/build/default''
+2023-12-01T17:07:36.084Z setStatus: 'export completed'
+2023-12-01T17:08:21.036Z receiving: /scenes/default/edit (renderApp)
+2023-12-01T17:08:21.037Z _evalConfigureEditor START
+2023-12-01T17:08:21.042Z _evalConfigureEditor DONE
+2023-12-01T17:08:21.640Z receiving: /api/install/draco.json
+2023-12-01T17:08:21.647Z checking folder exists '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco': OK
+2023-12-01T17:08:21.648Z updating folder public/three/js/libs/draco
+2023-12-01T17:08:21.648Z copy folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco -> public/three/js/libs/draco
+2023-12-01T17:08:21.648Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/README.md public/three/js/libs/draco/README.md
+2023-12-01T17:08:21.649Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_decoder.js public/three/js/libs/draco/draco_decoder.js
+2023-12-01T17:08:21.651Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_decoder.wasm public/three/js/libs/draco/draco_decoder.wasm
+2023-12-01T17:08:21.651Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_encoder.js public/three/js/libs/draco/draco_encoder.js
+2023-12-01T17:08:21.653Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_wasm_wrapper.js public/three/js/libs/draco/draco_wasm_wrapper.js
+2023-12-01T17:08:21.653Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_decoder.js public/three/js/libs/draco/gltf/draco_decoder.js
+2023-12-01T17:08:21.654Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_decoder.wasm public/three/js/libs/draco/gltf/draco_decoder.wasm
+2023-12-01T17:08:21.654Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_encoder.js public/three/js/libs/draco/gltf/draco_encoder.js
+2023-12-01T17:08:21.656Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_wasm_wrapper.js public/three/js/libs/draco/gltf/draco_wasm_wrapper.js
+2023-12-01T17:08:21.695Z receiving: /api/install/ktx2.json
+2023-12-01T17:08:21.697Z checking folder exists '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/basis': OK
+2023-12-01T17:08:21.713Z receiving: /api/install/xatlas.json
+2023-12-01T17:08:21.718Z receiving: /api/install/occt.json
+2023-12-01T17:08:21.721Z receiving: /api/poly_config/load.js?sceneName=default
+2023-12-01T17:08:21.724Z receiving: /api/install/manifold.json
+2023-12-01T17:08:21.755Z receiving: /api/assets.json?extensionsJoined=exr,jpg
+2023-12-01T17:08:21.765Z receiving: /api/assets.json?extensionsJoined=ifc
+2023-12-01T17:08:21.770Z receiving: /api/assets.json?extensionsJoined=exr,jpg
+2023-12-01T17:08:21.774Z receiving: /api/assets.json?extensionsJoined=ifc
+2023-12-01T17:08:21.960Z receiving: /api/poly_config/load.js?sceneName=default
+2023-12-01T17:08:22.524Z receiving: /api/poly_nodes
+2023-12-01T17:08:22.551Z receiving: /api/scenes/load?scene=default
+2023-12-01T17:08:22.686Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm?t=1701450502683 (asset)
+2023-12-01T17:08:22.687Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm' -> 'three/js/libs/draco/gltf/draco_decoder.wasm' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:08:22.687Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_decoder.wasm' exists? true: true
+2023-12-01T17:08:22.688Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js?t=1701450502683 (asset)
+2023-12-01T17:08:22.689Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js' -> 'three/js/libs/draco/gltf/draco_wasm_wrapper.js' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:08:22.689Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_wasm_wrapper.js' exists? true: true
+2023-12-01T17:08:22.689Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm?t=1701450502684 (asset)
+2023-12-01T17:08:22.690Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm' -> 'three/js/libs/draco/gltf/draco_decoder.wasm' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:08:22.690Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_decoder.wasm' exists? true: true
+2023-12-01T17:08:22.690Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js?t=1701450502684 (asset)
+2023-12-01T17:08:22.690Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js' -> 'three/js/libs/draco/gltf/draco_wasm_wrapper.js' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:08:22.691Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_wasm_wrapper.js' exists? true: true
+2023-12-01T17:08:22.699Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm?t=1701450502683 (asset)
+2023-12-01T17:08:22.699Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm' -> 'three/js/libs/draco/gltf/draco_decoder.wasm' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:08:22.699Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_decoder.wasm' exists? true: true
+2023-12-01T17:08:22.700Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js?t=1701450502683 (asset)
+2023-12-01T17:08:22.700Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js' -> 'three/js/libs/draco/gltf/draco_wasm_wrapper.js' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:08:22.700Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_wasm_wrapper.js' exists? true: true
+2023-12-01T17:08:22.720Z receiving: /api/editor_config/load.js
+2023-12-01T17:08:22.749Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js (asset)
+2023-12-01T17:08:22.749Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js' -> 'three/js/libs/draco/gltf/draco_wasm_wrapper.js' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:08:22.750Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_wasm_wrapper.js' exists? true: true
+2023-12-01T17:08:22.750Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm (asset)
+2023-12-01T17:08:22.750Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm' -> 'three/js/libs/draco/gltf/draco_decoder.wasm' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:08:22.750Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_decoder.wasm' exists? true: true
+2023-12-01T17:08:22.750Z receiving: /models/Hundepaar.glb (asset)
+2023-12-01T17:08:22.750Z asset redirect '/models/Hundepaar.glb' -> 'models/Hundepaar.glb' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:08:22.750Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/models/Hundepaar.glb' exists? true: true
+2023-12-01T17:08:22.754Z receiving: /models/Hundepaar.glb (asset)
+2023-12-01T17:08:22.754Z asset redirect '/models/Hundepaar.glb' -> 'models/Hundepaar.glb' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:08:22.754Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/models/Hundepaar.glb' exists? true: true
+2023-12-01T17:08:22.756Z receiving: /models/Hundepaar.glb (asset)
+2023-12-01T17:08:22.756Z asset redirect '/models/Hundepaar.glb' -> 'models/Hundepaar.glb' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:08:22.756Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/models/Hundepaar.glb' exists? true: true
+2023-12-01T17:08:22.872Z receiving: /api/multiplayer/users/index
+2023-12-01T17:08:22.950Z receiving: /api/captures/status
+2023-12-01T17:08:22.954Z receiving: /api/multiplayer/sessions/show
+2023-12-01T17:08:23.014Z receiving: /api/multiplayer/userRequests/index
+2023-12-01T17:08:23.028Z receiving: /api/multiplayer/sessions/show
+2023-12-01T17:08:29.302Z receiving: /api/utils/status.json?ping=0
+2023-12-01T17:08:29.302Z respond with status: 'export completed'
+2023-12-01T17:08:29.308Z receiving: /api/scenes/save
+2023-12-01T17:08:29.309Z setStatus: 'saving...'
+2023-12-01T17:08:29.313Z setStatus: 'saving common files'
+2023-12-01T17:08:29.319Z backing up folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default to /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/backup/scenes/default
+2023-12-01T17:08:29.331Z written zip archive: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/backup/scenes/default/2023_11_1__17h8m.zip
+2023-12-01T17:08:29.332Z backup completed
+2023-12-01T17:08:29.332Z deleting folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated
+2023-12-01T17:08:29.333Z folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated deleted
+2023-12-01T17:08:29.333Z deleting folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default
+2023-12-01T17:08:29.334Z folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default deleted
+2023-12-01T17:08:29.354Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/ui.json
+2023-12-01T17:08:29.369Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/editor.json
+2023-12-01T17:08:29.371Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/properties.json
+2023-12-01T17:08:29.374Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root.json
+2023-12-01T17:08:29.378Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT.json
+2023-12-01T17:08:29.401Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.json
+2023-12-01T17:08:29.410Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.json
+2023-12-01T17:08:29.416Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithOcclusion.json
+2023-12-01T17:08:29.420Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/spheres.json
+2023-12-01T17:08:29.424Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/headWithOcclusion.json
+2023-12-01T17:08:29.427Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithoutOcclusion.json
+2023-12-01T17:08:29.430Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithOcclusionAndLighting.json
+2023-12-01T17:08:29.433Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/cameras.json
+2023-12-01T17:08:29.434Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/cameras/cameraControls1.json
+2023-12-01T17:08:29.437Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/lights.json
+2023-12-01T17:08:29.437Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.vertex.glsl
+2023-12-01T17:08:29.437Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.fragment.glsl
+2023-12-01T17:08:29.437Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthMaterial.vertex.glsl
+2023-12-01T17:08:29.437Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthMaterial.fragment.glsl
+2023-12-01T17:08:29.437Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDistanceMaterial.vertex.glsl
+2023-12-01T17:08:29.437Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDistanceMaterial.fragment.glsl
+2023-12-01T17:08:29.437Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthDOFMaterial.vertex.glsl
+2023-12-01T17:08:29.437Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthDOFMaterial.fragment.glsl
+2023-12-01T17:08:29.437Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.vertex.glsl
+2023-12-01T17:08:29.438Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.fragment.glsl
+2023-12-01T17:08:29.438Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthMaterial.vertex.glsl
+2023-12-01T17:08:29.438Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthMaterial.fragment.glsl
+2023-12-01T17:08:29.438Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDistanceMaterial.vertex.glsl
+2023-12-01T17:08:29.438Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDistanceMaterial.fragment.glsl
+2023-12-01T17:08:29.438Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthDOFMaterial.vertex.glsl
+2023-12-01T17:08:29.438Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthDOFMaterial.fragment.glsl
+2023-12-01T17:08:29.439Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/assets.json
+2023-12-01T17:08:29.440Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/manifest.json
+2023-12-01T17:08:29.441Z setStatus: 'saving detail files'
+2023-12-01T17:08:29.441Z file /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/index.html already exists, not replacing
+2023-12-01T17:08:29.447Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/index.js
+2023-12-01T17:08:29.452Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/index.d.ts
+2023-12-01T17:08:29.457Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/fetchSceneAndMount.js
+2023-12-01T17:08:29.460Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/fetchSceneAndMount.d.ts
+2023-12-01T17:08:29.468Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneData.js
+2023-12-01T17:08:29.472Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneData.d.ts
+2023-12-01T17:08:29.487Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadScene.js
+2023-12-01T17:08:29.496Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadScene.d.ts
+2023-12-01T17:08:29.516Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneFromSceneData.js
+2023-12-01T17:08:29.531Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneFromSceneData.d.ts
+2023-12-01T17:08:29.533Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/modules.json
+2023-12-01T17:08:29.543Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/requiredImports.js
+2023-12-01T17:08:29.891Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/PolySceneWithNodeMap.ts
+2023-12-01T17:08:29.894Z receiving: /api/utils/status.json?ping=1
+2023-12-01T17:08:29.894Z respond with status: 'saving detail files'
+2023-12-01T17:08:53.768Z receiving: /api/utils/status.json?ping=0
+2023-12-01T17:08:53.768Z respond with status: 'saving detail files'
+2023-12-01T17:08:53.774Z receiving: /api/scenes/save
+2023-12-01T17:08:53.774Z setStatus: 'saving...'
+2023-12-01T17:08:53.776Z setStatus: 'saving common files'
+2023-12-01T17:08:53.780Z backing up folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default to /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/backup/scenes/default
+2023-12-01T17:08:53.781Z zip archive /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/backup/scenes/default/2023_11_1__17h8m.zip already exist
+2023-12-01T17:08:53.781Z backup completed
+2023-12-01T17:08:53.781Z deleting folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated
+2023-12-01T17:08:53.783Z folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated deleted
+2023-12-01T17:08:53.783Z deleting folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default
+2023-12-01T17:08:53.785Z folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default deleted
+2023-12-01T17:08:53.795Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/ui.json
+2023-12-01T17:08:53.802Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/editor.json
+2023-12-01T17:08:53.803Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/properties.json
+2023-12-01T17:08:53.804Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root.json
+2023-12-01T17:08:53.805Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT.json
+2023-12-01T17:08:53.810Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.json
+2023-12-01T17:08:53.817Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.json
+2023-12-01T17:08:53.825Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithOcclusion.json
+2023-12-01T17:08:53.830Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/spheres.json
+2023-12-01T17:08:53.833Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/headWithOcclusion.json
+2023-12-01T17:08:53.837Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithoutOcclusion.json
+2023-12-01T17:08:53.840Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithOcclusionAndLighting.json
+2023-12-01T17:08:53.843Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/cameras.json
+2023-12-01T17:08:53.844Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/cameras/cameraControls1.json
+2023-12-01T17:08:53.847Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/lights.json
+2023-12-01T17:08:53.847Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.vertex.glsl
+2023-12-01T17:08:53.847Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.fragment.glsl
+2023-12-01T17:08:53.847Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthMaterial.vertex.glsl
+2023-12-01T17:08:53.847Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthMaterial.fragment.glsl
+2023-12-01T17:08:53.847Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDistanceMaterial.vertex.glsl
+2023-12-01T17:08:53.847Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDistanceMaterial.fragment.glsl
+2023-12-01T17:08:53.847Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthDOFMaterial.vertex.glsl
+2023-12-01T17:08:53.847Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthDOFMaterial.fragment.glsl
+2023-12-01T17:08:53.847Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.vertex.glsl
+2023-12-01T17:08:53.848Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.fragment.glsl
+2023-12-01T17:08:53.848Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthMaterial.vertex.glsl
+2023-12-01T17:08:53.848Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthMaterial.fragment.glsl
+2023-12-01T17:08:53.848Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDistanceMaterial.vertex.glsl
+2023-12-01T17:08:53.848Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDistanceMaterial.fragment.glsl
+2023-12-01T17:08:53.848Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthDOFMaterial.vertex.glsl
+2023-12-01T17:08:53.848Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthDOFMaterial.fragment.glsl
+2023-12-01T17:08:53.849Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/assets.json
+2023-12-01T17:08:53.850Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/manifest.json
+2023-12-01T17:08:53.851Z setStatus: 'saving detail files'
+2023-12-01T17:08:53.851Z file /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/index.html already exists, not replacing
+2023-12-01T17:08:53.858Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/index.js
+2023-12-01T17:08:53.871Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/index.d.ts
+2023-12-01T17:08:53.877Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/fetchSceneAndMount.js
+2023-12-01T17:08:53.882Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/fetchSceneAndMount.d.ts
+2023-12-01T17:08:53.896Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneData.js
+2023-12-01T17:08:53.902Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneData.d.ts
+2023-12-01T17:08:53.915Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadScene.js
+2023-12-01T17:08:53.922Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadScene.d.ts
+2023-12-01T17:08:53.932Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneFromSceneData.js
+2023-12-01T17:08:53.938Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneFromSceneData.d.ts
+2023-12-01T17:08:53.939Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/modules.json
+2023-12-01T17:08:53.944Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/requiredImports.js
+2023-12-01T17:08:54.212Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/PolySceneWithNodeMap.ts
+2023-12-01T17:08:54.214Z receiving: /api/utils/status.json?ping=1
+2023-12-01T17:08:54.214Z respond with status: 'saving detail files'
+2023-12-01T17:09:14.122Z ===================================
+2023-12-01T17:09:14.123Z 
+2023-12-01T17:09:14.123Z Polygonjs Editor (1.5.45-1) started on: [32mhttp://localhost:8091[39m
+2023-12-01T17:09:14.123Z 
+2023-12-01T17:09:14.123Z ===================================
+2023-12-01T17:09:17.288Z receiving: /scenes/default/edit (renderApp)
+2023-12-01T17:09:17.290Z _evalConfigureEditor START
+2023-12-01T17:09:17.311Z _evalConfigureEditor DONE
+2023-12-01T17:09:17.933Z receiving: /api/install/draco.json
+2023-12-01T17:09:17.938Z checking folder exists '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco': OK
+2023-12-01T17:09:17.939Z updating folder public/three/js/libs/draco
+2023-12-01T17:09:17.940Z copy folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco -> public/three/js/libs/draco
+2023-12-01T17:09:17.941Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/README.md public/three/js/libs/draco/README.md
+2023-12-01T17:09:17.942Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_decoder.js public/three/js/libs/draco/draco_decoder.js
+2023-12-01T17:09:17.944Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_decoder.wasm public/three/js/libs/draco/draco_decoder.wasm
+2023-12-01T17:09:17.945Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_encoder.js public/three/js/libs/draco/draco_encoder.js
+2023-12-01T17:09:17.946Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/draco_wasm_wrapper.js public/three/js/libs/draco/draco_wasm_wrapper.js
+2023-12-01T17:09:17.947Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_decoder.js public/three/js/libs/draco/gltf/draco_decoder.js
+2023-12-01T17:09:17.948Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_decoder.wasm public/three/js/libs/draco/gltf/draco_decoder.wasm
+2023-12-01T17:09:17.948Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_encoder.js public/three/js/libs/draco/gltf/draco_encoder.js
+2023-12-01T17:09:17.950Z cp /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/draco/gltf/draco_wasm_wrapper.js public/three/js/libs/draco/gltf/draco_wasm_wrapper.js
+2023-12-01T17:09:17.960Z receiving: /api/install/ktx2.json
+2023-12-01T17:09:17.962Z checking folder exists '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/node_modules/three/examples/jsm/libs/basis': OK
+2023-12-01T17:09:17.974Z receiving: /api/install/xatlas.json
+2023-12-01T17:09:17.979Z receiving: /api/install/occt.json
+2023-12-01T17:09:17.980Z receiving: /api/poly_config/load.js?sceneName=default
+2023-12-01T17:09:17.984Z receiving: /api/install/manifold.json
+2023-12-01T17:09:18.312Z receiving: /api/poly_config/load.js?sceneName=default
+2023-12-01T17:09:18.963Z receiving: /api/poly_nodes
+2023-12-01T17:09:18.996Z receiving: /api/scenes/load?scene=default
+2023-12-01T17:09:19.137Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm?t=1701450559131 (asset)
+2023-12-01T17:09:19.138Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm' -> 'three/js/libs/draco/gltf/draco_decoder.wasm' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:09:19.139Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_decoder.wasm' exists? true: true
+2023-12-01T17:09:19.142Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js?t=1701450559131 (asset)
+2023-12-01T17:09:19.143Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js' -> 'three/js/libs/draco/gltf/draco_wasm_wrapper.js' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:09:19.143Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_wasm_wrapper.js' exists? true: true
+2023-12-01T17:09:19.144Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm?t=1701450559132 (asset)
+2023-12-01T17:09:19.144Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm' -> 'three/js/libs/draco/gltf/draco_decoder.wasm' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:09:19.144Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_decoder.wasm' exists? true: true
+2023-12-01T17:09:19.145Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js?t=1701450559132 (asset)
+2023-12-01T17:09:19.145Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js' -> 'three/js/libs/draco/gltf/draco_wasm_wrapper.js' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:09:19.145Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_wasm_wrapper.js' exists? true: true
+2023-12-01T17:09:19.157Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm?t=1701450559131 (asset)
+2023-12-01T17:09:19.157Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm' -> 'three/js/libs/draco/gltf/draco_decoder.wasm' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:09:19.157Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_decoder.wasm' exists? true: true
+2023-12-01T17:09:19.158Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js?t=1701450559131 (asset)
+2023-12-01T17:09:19.158Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js' -> 'three/js/libs/draco/gltf/draco_wasm_wrapper.js' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:09:19.159Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_wasm_wrapper.js' exists? true: true
+2023-12-01T17:09:19.163Z receiving: /api/editor_config/load.js
+2023-12-01T17:09:19.174Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js (asset)
+2023-12-01T17:09:19.175Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_wasm_wrapper.js' -> 'three/js/libs/draco/gltf/draco_wasm_wrapper.js' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:09:19.175Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_wasm_wrapper.js' exists? true: true
+2023-12-01T17:09:19.175Z receiving: /scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm (asset)
+2023-12-01T17:09:19.176Z asset redirect '/scenes/default/three/js/libs/draco/gltf/draco_decoder.wasm' -> 'three/js/libs/draco/gltf/draco_decoder.wasm' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:09:19.176Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/three/js/libs/draco/gltf/draco_decoder.wasm' exists? true: true
+2023-12-01T17:09:19.177Z receiving: /models/Hundepaar.glb (asset)
+2023-12-01T17:09:19.177Z asset redirect '/models/Hundepaar.glb' -> 'models/Hundepaar.glb' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:09:19.177Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/models/Hundepaar.glb' exists? true: true
+2023-12-01T17:09:19.181Z receiving: /models/Hundepaar.glb (asset)
+2023-12-01T17:09:19.181Z asset redirect '/models/Hundepaar.glb' -> 'models/Hundepaar.glb' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:09:19.182Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/models/Hundepaar.glb' exists? true: true
+2023-12-01T17:09:19.184Z receiving: /models/Hundepaar.glb (asset)
+2023-12-01T17:09:19.185Z asset redirect '/models/Hundepaar.glb' -> 'models/Hundepaar.glb' (referer: 'http://localhost:8091/scenes/default/edit')
+2023-12-01T17:09:19.185Z '/home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/models/Hundepaar.glb' exists? true: true
+2023-12-01T17:09:19.363Z receiving: /api/multiplayer/users/index
+2023-12-01T17:09:19.427Z receiving: /api/captures/status
+2023-12-01T17:09:19.436Z receiving: /api/multiplayer/sessions/show
+2023-12-01T17:09:20.419Z receiving: /api/multiplayer/userRequests/index
+2023-12-01T17:09:20.433Z receiving: /api/multiplayer/sessions/show
+2023-12-01T17:10:06.941Z receiving: /api/utils/status.json?ping=0
+2023-12-01T17:10:06.942Z respond with status: 'waiting...'
+2023-12-01T17:10:06.947Z receiving: /api/scenes/save
+2023-12-01T17:10:06.948Z setStatus: 'saving...'
+2023-12-01T17:10:06.952Z setStatus: 'saving common files'
+2023-12-01T17:10:06.956Z backing up folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default to /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/backup/scenes/default
+2023-12-01T17:10:06.988Z written zip archive: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/backup/scenes/default/2023_11_1__17h10m.zip
+2023-12-01T17:10:06.989Z backup completed
+2023-12-01T17:10:06.989Z deleting folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated
+2023-12-01T17:10:06.990Z folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated deleted
+2023-12-01T17:10:06.990Z deleting folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default
+2023-12-01T17:10:06.991Z folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default deleted
+2023-12-01T17:10:07.029Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/ui.json
+2023-12-01T17:10:07.043Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/editor.json
+2023-12-01T17:10:07.044Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/properties.json
+2023-12-01T17:10:07.046Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root.json
+2023-12-01T17:10:07.047Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT.json
+2023-12-01T17:10:07.056Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.json
+2023-12-01T17:10:07.063Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.json
+2023-12-01T17:10:07.069Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithOcclusion.json
+2023-12-01T17:10:07.075Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/spheres.json
+2023-12-01T17:10:07.079Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/headWithOcclusion.json
+2023-12-01T17:10:07.082Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithoutOcclusion.json
+2023-12-01T17:10:07.086Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithOcclusionAndLighting.json
+2023-12-01T17:10:07.089Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/cameras.json
+2023-12-01T17:10:07.091Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/cameras/cameraControls1.json
+2023-12-01T17:10:07.094Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/lights.json
+2023-12-01T17:10:07.094Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.vertex.glsl
+2023-12-01T17:10:07.094Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.fragment.glsl
+2023-12-01T17:10:07.094Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.vertex.glsl
+2023-12-01T17:10:07.094Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.fragment.glsl
+2023-12-01T17:10:07.095Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/assets.json
+2023-12-01T17:10:07.097Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/manifest.json
+2023-12-01T17:10:07.097Z setStatus: 'saving detail files'
+2023-12-01T17:10:07.097Z file /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/index.html already exists, not replacing
+2023-12-01T17:10:07.114Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/index.js
+2023-12-01T17:10:07.133Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/index.d.ts
+2023-12-01T17:10:07.138Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/fetchSceneAndMount.js
+2023-12-01T17:10:07.142Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/fetchSceneAndMount.d.ts
+2023-12-01T17:10:07.153Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneData.js
+2023-12-01T17:10:07.161Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneData.d.ts
+2023-12-01T17:10:07.183Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadScene.js
+2023-12-01T17:10:07.196Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadScene.d.ts
+2023-12-01T17:10:07.214Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneFromSceneData.js
+2023-12-01T17:10:07.235Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneFromSceneData.d.ts
+2023-12-01T17:10:07.236Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/modules.json
+2023-12-01T17:10:07.243Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/requiredImports.js
+2023-12-01T17:10:07.552Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/PolySceneWithNodeMap.ts
+2023-12-01T17:10:07.556Z receiving: /api/utils/status.json?ping=1
+2023-12-01T17:10:07.556Z respond with status: 'saving detail files'
+2023-12-01T17:10:13.525Z receiving: /api/utils/status.json?ping=0
+2023-12-01T17:10:13.526Z respond with status: 'saving detail files'
+2023-12-01T17:10:13.531Z receiving: /api/scenes/save
+2023-12-01T17:10:13.532Z setStatus: 'saving...'
+2023-12-01T17:10:13.534Z setStatus: 'saving common files'
+2023-12-01T17:10:13.538Z backing up folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default to /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/backup/scenes/default
+2023-12-01T17:10:13.538Z zip archive /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/backup/scenes/default/2023_11_1__17h10m.zip already exist
+2023-12-01T17:10:13.538Z backup completed
+2023-12-01T17:10:13.538Z deleting folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated
+2023-12-01T17:10:13.540Z folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated deleted
+2023-12-01T17:10:13.540Z deleting folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default
+2023-12-01T17:10:13.542Z folder /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default deleted
+2023-12-01T17:10:13.555Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/ui.json
+2023-12-01T17:10:13.562Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/editor.json
+2023-12-01T17:10:13.564Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/properties.json
+2023-12-01T17:10:13.565Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root.json
+2023-12-01T17:10:13.566Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT.json
+2023-12-01T17:10:13.571Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.json
+2023-12-01T17:10:13.575Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.json
+2023-12-01T17:10:13.579Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithOcclusion.json
+2023-12-01T17:10:13.581Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/spheres.json
+2023-12-01T17:10:13.583Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/headWithOcclusion.json
+2023-12-01T17:10:13.585Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithoutOcclusion.json
+2023-12-01T17:10:13.588Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/dogWithOcclusionAndLighting.json
+2023-12-01T17:10:13.590Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/cameras.json
+2023-12-01T17:10:13.591Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/cameras/cameraControls1.json
+2023-12-01T17:10:13.593Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/lights.json
+2023-12-01T17:10:13.593Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.vertex.glsl
+2023-12-01T17:10:13.593Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.fragment.glsl
+2023-12-01T17:10:13.593Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthMaterial.vertex.glsl
+2023-12-01T17:10:13.593Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthMaterial.fragment.glsl
+2023-12-01T17:10:13.593Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDistanceMaterial.vertex.glsl
+2023-12-01T17:10:13.593Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDistanceMaterial.fragment.glsl
+2023-12-01T17:10:13.593Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthDOFMaterial.vertex.glsl
+2023-12-01T17:10:13.593Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshBasicBuilder_OCCLUSION.customDepthDOFMaterial.fragment.glsl
+2023-12-01T17:10:13.594Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.vertex.glsl
+2023-12-01T17:10:13.594Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.fragment.glsl
+2023-12-01T17:10:13.594Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthMaterial.vertex.glsl
+2023-12-01T17:10:13.594Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthMaterial.fragment.glsl
+2023-12-01T17:10:13.594Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDistanceMaterial.vertex.glsl
+2023-12-01T17:10:13.594Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDistanceMaterial.fragment.glsl
+2023-12-01T17:10:13.594Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthDOFMaterial.vertex.glsl
+2023-12-01T17:10:13.594Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/public/polygonjs/scenes/default/root/MAT/meshStandardBuilder_OCCLUSION.customDepthDOFMaterial.fragment.glsl
+2023-12-01T17:10:13.595Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/assets.json
+2023-12-01T17:10:13.596Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/manifest.json
+2023-12-01T17:10:13.596Z setStatus: 'saving detail files'
+2023-12-01T17:10:13.596Z file /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/index.html already exists, not replacing
+2023-12-01T17:10:13.600Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/index.js
+2023-12-01T17:10:13.605Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/index.d.ts
+2023-12-01T17:10:13.609Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/fetchSceneAndMount.js
+2023-12-01T17:10:13.612Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/fetchSceneAndMount.d.ts
+2023-12-01T17:10:13.618Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneData.js
+2023-12-01T17:10:13.621Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneData.d.ts
+2023-12-01T17:10:13.631Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadScene.js
+2023-12-01T17:10:13.638Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadScene.d.ts
+2023-12-01T17:10:13.647Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneFromSceneData.js
+2023-12-01T17:10:13.652Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/loadSceneFromSceneData.d.ts
+2023-12-01T17:10:13.653Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/modules.json
+2023-12-01T17:10:13.658Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/requiredImports.js
+2023-12-01T17:10:13.909Z updated file: /home/gui/work/web/polygonjs/dev/plugins/example-plugin-occlusion/src/polygonjs/scenes/default/autogenerated/PolySceneWithNodeMap.ts
+2023-12-01T17:10:13.911Z receiving: /api/utils/status.json?ping=1
+2023-12-01T17:10:13.911Z respond with status: 'saving detail files'
